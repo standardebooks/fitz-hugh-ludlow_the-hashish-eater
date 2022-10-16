@@ -28,49 +28,50 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Hasheesh Eater</dc:title>
 		<meta property="file-as" refines="#title">Hasheesh Eater, The</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Recreational marijuana use</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-1">sh2019103404</meta>
+		<meta property="se:subject">Memoir</meta>
+		<dc:description id="description">The author describes and philosophically contemplates his youthful adventures of ingesting large doses of a psychoactive cannabis extract.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;When &lt;a href="https://standardebooks.org/ebooks/fitz-hugh-ludlow"&gt;Fitz Hugh Ludlow&lt;/a&gt; was in college, he found a jar of cannabis extract at his pharmacy, deduced that this was the fabled “hasheesh” described in &lt;i&gt;The Arabian Nights&lt;/i&gt; and &lt;a href="https://standardebooks.org/ebooks/alexandre-dumas/the-count-of-monte-cristo/chapman-and-hall"&gt;&lt;i&gt;The Count of Monte Cristo&lt;/i&gt;&lt;/a&gt;, and gave in to his curiosity by swallowing a spoonful. His life would never be the same.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Hasheesh Eater&lt;/i&gt; attempts to describe the bizarre distortions of perspective and imagination that Ludlow experienced on extraordinarily large doses of cannabis. Because cannabis was mostly unknown in the English-speaking world at that time, he did not have access to a ready-made vocabulary to describe his “trips,” and he could not expect his readers to have had similar experiences to compare with his. Because of this, he tests the limits of metaphor and creative description, and because of that, his work remains an important document in understanding and poetically revealing the phenomenology of cannabis intoxication.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://sniggle.net/Hasheesh/</dc:source>
+		<meta property="se:production-notes">I did the original transcription mostly by typing it in, with a little primitive OCR help, back in the 1990s, before Google Books or Internet Archive came on the scene. For this edition, I used a physical copy of the first edition rather than page scans to double-check transcription.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Hasheesh_Eater</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fitz-hugh-ludlow_the-hasheesh-eater</meta>
 		<dc:creator id="author">Fitz Hugh Ludlow</dc:creator>
 		<meta property="file-as" refines="#author">Ludlow, Fitz Hugh</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Fitz_Hugh_Ludlow</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79055806</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">David M. Gross</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Gross, David M.</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">https://sniggle.net/TPL</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">David M. Gross</dc:contributor>
+		<meta property="se:url.authority.nacoaf" refines="#transcriber-1">http://id.loc.gov/authorities/names/no2009011220</meta>
+		<meta property="file-as" refines="#producer-1">David M. Gross</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://sniggle.net/TPL</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-1">http://id.loc.gov/authorities/names/no2009011220</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
@@ -106,6 +107,7 @@
 		<item href="text/chapter-25.xhtml" id="chapter-25.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/ideal-men-and-their-stimulants.xhtml" id="ideal-men-and-their-stimulants.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
@@ -119,8 +121,9 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="preface.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
+		<itemref idref="preface.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
@@ -146,8 +149,8 @@
 		<itemref idref="chapter-23.xhtml"/>
 		<itemref idref="chapter-24.xhtml"/>
 		<itemref idref="chapter-25.xhtml"/>
-		<itemref idref="notes-on-the-way-upward.xhtml"/>
 		<itemref idref="labyrinths-and-guiding-threads.xhtml"/>
+		<itemref idref="notes-on-the-way-upward.xhtml"/>
 		<itemref idref="ideal-men-and-their-stimulants.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
