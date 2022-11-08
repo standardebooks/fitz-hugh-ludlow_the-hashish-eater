@@ -23,6 +23,7 @@ body [xml|lang]{
 	margin-top: 1em;
 }
 /* End all epigraphs */
+
 /* Full-page epigraphs */
 section[epub|type~="epigraph"]{
 	text-align: center;
