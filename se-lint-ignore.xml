@@ -6,10 +6,10 @@
 			<reason>"pseudo- with any other termination" is correct.</reason>
 		</ignore>
 	</file>
-	<file path="ideal-men-and-their-stimulants.xhtml">
+	<file path="afterword-3.xhtml">
 		<ignore>
 			<code>t-033</code>
-			<reason>"peri- into aph-elion" is correct.</reason>
+			<reason>"peri- into ap-helion" is correct.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
