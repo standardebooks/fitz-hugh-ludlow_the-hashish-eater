@@ -28,7 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Hashish Eater</dc:title>
 		<meta property="file-as" refines="#title">Hashish Eater, The</meta>
-      <meta property="dcterms:alternative" refines="#title">The Hasheesh Eater</meta>
+		<meta property="dcterms:alternative" refines="#title">The Hasheesh Eater</meta>
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="subtitle">Being Passages from the Life of a Pythagorean</dc:title>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
