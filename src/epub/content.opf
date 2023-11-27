@@ -49,7 +49,7 @@
 		<dc:source>https://sniggle.net/Hasheesh/</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Hasheesh_Eater/ZZARAAAAYAAJ</dc:source>
 		<meta property="se:production-notes">I did the original transcription mostly by typing it in, with a little primitive OCR help, back in the 1990s, before Google Books or Internet Archive came on the scene. For this edition, I used a physical copy of the first edition rather than page scans to double-check transcription.</meta>
-		<meta property="se:word-count">100812</meta>
+		<meta property="se:word-count">100808</meta>
 		<meta property="se:reading-ease.flesch">52.23</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Hasheesh_Eater</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fitz-hugh-ludlow_the-hashish-eater</meta>
