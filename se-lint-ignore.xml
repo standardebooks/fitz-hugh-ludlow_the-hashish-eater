@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="afterword-3.xhtml">
-		<ignore>
-			<code>t-033</code>
+		<ignore code="t-033">
 			<reason>"peri- into ap-helion" is correct.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-24.xhtml">
-		<ignore>
-			<code>t-033</code>
+		<ignore code="t-033">
 			<reason>"pseudo- with any other termination" is correct.</reason>
 		</ignore>
 	</file>
