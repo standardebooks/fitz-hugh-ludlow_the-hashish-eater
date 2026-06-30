@@ -1,0 +1,1 @@
+I did the original transcription mostly by typing it in, with a little primitive OCR help, back in the 1990s, before Google Books or Internet Archive came on the scene. For this edition, I used a physical copy of the first edition rather than page scans to double-check transcription.
