@@ -71,8 +71,8 @@
 		<link href="https://id.loc.gov/authorities/names/nr2002002724.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">David M. Gross</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Gross, David M.</meta>
 		<link href="https://id.loc.gov/authorities/names/no2009011220.html" refines="#producer-1" rel="schema:sameAs"/>
-		<meta property="file-as" refines="#producer-1">David M. Gross</meta>
 		<link href="https://sniggle.net/TPL" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
