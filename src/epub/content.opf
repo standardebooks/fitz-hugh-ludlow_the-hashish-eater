@@ -50,8 +50,8 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://sniggle.net/Hasheesh/</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Hasheesh_Eater/ZZARAAAAYAAJ</dc:source>
-		<meta property="schema:wordCount">100615</meta>
-		<meta property="schema:educationalLevel">52.43</meta>
+		<meta property="schema:wordCount">100608</meta>
+		<meta property="schema:educationalLevel">52.53</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Hasheesh_Eater" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
